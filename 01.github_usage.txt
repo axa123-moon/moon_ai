@@ -19,3 +19,6 @@ git push origin +master
           git remote add origin https://github.com/axa123-moon/moon_ai
      다) 해당 github에서 파일 가져오기
           git pull origin master
+
+
+11
