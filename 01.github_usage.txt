@@ -1,5 +1,5 @@
 1.현재 상태 확인
-git git
+git status
 
 2.파일 가져오기
 git pull origin master
