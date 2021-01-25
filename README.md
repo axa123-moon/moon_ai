@@ -16,9 +16,9 @@
   
   - 3.GAN
   
-  - 4.ObjectDetection
+  - 4.Object Detection
   
-  - 5.ImageSegmentation
+  - 5.Image Segmentation
   
   - 6.AutoML
 
