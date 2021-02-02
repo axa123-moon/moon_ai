@@ -1,6 +1,6 @@
 1.cifar 10
-  https://www.cs.toronto.edu/~kriz/cifar.html
+  - https://www.cs.toronto.edu/~kriz/cifar.html
   
 2.mnist_png
-  https://github.com/myleott/mnist_png
+  - https://github.com/myleott/mnist_png
   
